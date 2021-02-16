@@ -1,4 +1,6 @@
 #此软件插入模块为 哔哩漫游
+下载跳转
+https://github.com/misaka10843/some-xpatchapp/releases/tag/bilibili6.18.2
 <hr>
 # 哔哩漫游
 解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能
