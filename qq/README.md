@@ -1,4 +1,5 @@
 #此应用插入模块为 qx模块
+下载请跳转 https://github.com/misaka10843/some-xpatchapp/releases/tag/qq8.5.5
 <hr>
 QQUnrecalled （QQ防撤回模块）改名重新发布
 
